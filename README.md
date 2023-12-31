@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Katlin, in Github @kat-lin, however my main repository and latest works are in Gitlab: https://gitlab.com/java-remote-ee27-course
+- 👋 Hi, I’m Katlin, in Github @kat-lin, however my main repository of latest works are in Gitlab: https://gitlab.com/java-remote-ee27-course
 - 👀 I’m interested in Java programming
 - 🌱 I’m currently learning Java, Spring Boot, Spring Security, Angular
 - 💞️ I’m looking to collaborate on Java / Spring Boot / Angular projects
